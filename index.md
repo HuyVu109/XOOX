@@ -10,8 +10,7 @@
 - Nó còn ảnh hưởng đến tính khả quan sát, vì chúng ta cần quan sát một số lượng lớn các lớp con mà thực ra đang hoạt động công việc giống như lớp cha của nó. 
 
 # Câu 4.
-
-- Nếu ta xóa dòng code 
+Nếu ta xóa dòng code 
  `if (result == null) throw new NullPointerException ("Min.min");`
 chúng ta sẽ thấy thử nghiệm `testForSoloNullElement()` sẽ thất bại
 
