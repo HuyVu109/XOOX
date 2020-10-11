@@ -24,7 +24,7 @@ Tập thử nghiệm T thỏa mãn bao phủ cạnh trên đồ thị G khi và 
 Tập thử nghiệm T thỏa mãn bao phủ đường trên đồ thị G khi và chỉ khi đường đi T tour tất cả các đường đi kiểm thử có thể trong G.
 
 # Câu 4:
-## a. 
+## a. ![alt](https://github.com/trungdinh2k/INT3117-2020/blob/master/VuQuangHuy/graph4.png)
 ## b.
 Với bài tập này thì điều này là không thể. Mọi đường đi kiểm thử đều phải bắt đầu từ nút 1 và đi qua nút 2, và cuối cùng kết thúc ở nút 4. Mọi đường đi mà đi qua nút 3 thì đều sẽ đi qua cả 2 cạnh (2, 3) và (3, 2).
 ## c.
