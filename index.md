@@ -1,3 +1,26 @@
+7.1
 # Câu 1: 
 N = {1, 2, 3, 4, 5, 6, 7, 8, , 10}  
 N0 = {1, 2, 3}  
+Nf = {8, 9, 10}  
+E = {(1, 4), (1, 5), (2, 5), (3, 6), (3, 7), (4, 8), (5, 8), (5, 9), (6, 2),(6, 10),(7, 10),(9, 6)}
+
+
+# Câu 2:
+[2, 7] không phải một đường đi kiểm thử vì 2 nút không được nối với nhau bởi 1 cạnh.
+
+# Câu 3: 
+[1, 4, 8], [1, 5, 8], [1, 5, 9], [1, 5, 9, 6, 2, 5, 9], [1, 5, 9, 6, 10], [2, 5, 9], [2, 5, 9, 6, 2, 5, 9], [2, 5, 9, 6, 10],
+[3, 6, 10], [3, 6, 2, 5, 9], [3, 6, 2, 5, 9, 6, 2, 5, 9], [3, 7, 10].
+
+# Câu 4:
+
+
+7.2.2
+# Câu 1:
+Tập thử nghiệm T thỏa mãn bao phủ cạnh trên đồ thị G khi và chỉ khi với mỗi cạnh e ở trong E đều có vài đường đi p trong T mà p visit e.
+
+# Câu 2:
+Tập thử nghiệm T thỏa mãn bao phủ đường trên đồ thị G khi và chỉ khi đường đi T tour tất cả các đường đi kiểm thử có thể trong G.
+
+#
